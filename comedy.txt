@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Comedy Books</title>
+<style>
+     h1{font-size:50px;}
+     body{background-color: ECE6C2;}
+</style>
+</head>
+<body>
+<h1><u><center>COMEDY BOOKS</center></u></h1>
+<br>
+<p><center>
+         <a href="D:\comedy 1.html" "target="blank">
+         <img src="D:\Images\chasing-unicorns image.PNG"  width="400px"  height="450px">
+         </a>
+         <a href="D:\comedy 2.html" "target="blank">
+        <img src="D:\Images\a-teachers-lot image.PNG"   width="400px"  height="450px">
+        </a>
+        <a href="D:\comedy 3.html" "target="blank">
+        <img src="D:\Images\society-in-hell image.jpg"   width="400px"  height="450px">
+        </a>
+        <a href="D:\comedy 4.html" "target="blank">
+        <img src="D:\Images\innocent-in-the-afterlife image.jpg"   width="400px"  height="450px">
+        </a>
+        <a href="D:\comedy 5.html" "target="blank">
+        <img src="D:\Images\the longest trip image.jpg"   width="400px"  height="450px">
+        </a>
+        <a href="D:\comedy 6.html" "target="blank">
+        <img src="D:\Images\crafty canine's image.jpg"   width="400px"  height="450px">
+        </a>
+</center>
+</p>
+</body>
+</html>

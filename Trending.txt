@@ -1,0 +1,22 @@
+<html>
+<style>
+body{ background-color: ECE6C2;}
+h1{ color: maroon;
+      text-align: center;
+      font-size: 50px;
+       font-style: Algerian;}
+a:link{ color: red;}
+a:visited{ color: blue;}
+a:hover{ color: blue; }
+a:active{ color: coral }
+</style>
+<body>
+<h1>Trending Books</h1>
+<a href="The Fault in our stars.html" target="blank"><img src="D:\Images\The fault in our stars.png"width="400px" height="400px"></a>	
+<a href="It ends with us.html" target="blank"><img src= "D:\Images\It Ends With Us.png" width="400px" height="400px"></a>
+<a href="It Starts With Us.html" target="blank"><img src= "D:\Images\It Starts With Us.png" width="400px" height="400px"</a><br>
+<a href="Atomic Habits.html" target="blank"><img src="D:\Images\Atomic Habits.png"  width="400px" height="400px"></a>
+<a href= "IKIGAI.html"  target="blank"><img src="D:\Images\Ikigai.png" width="400px" height="400px"></a>
+<a href="The Power Of your Subconscious.html" target="blank"><img src="D:\Images\The Power Of Your Subconscious Mind.png"  width="400px" height="400px"></a>
+</body>
+</html>

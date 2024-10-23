@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>About Us</title>
+<style>
+h1{ color: maroon;
+       text-align: center;
+       font-family: Algerian;
+       font-size: 56px;}
+body{ background-color: ECE6C2;}
+p{ color: black;
+     text-align: center;
+     font-size: 36; }
+</style>
+</head>
+<body>
+<h1>About us</h1><br><br><br>
+<p>Goodreads is a free service that helps millions of readers discover books they'll love while providing publishers and authors with a way to drive sales and find new fans. <br><br><br>Upon joining, members receive unbeatable deals selected by our expert editorial team, handpicked recommendations from people they trust, and real-time updates from their favorite authors.<br><br><br>Goodreads works with all major ebook retailers and devices, and partners with thousands of the industry’s leading publishers and authors to promote their books.Goodreads was founded in 2022 and is headquartered in Pune,Maharashtra,India.</p><br>
+</body>
+</html>

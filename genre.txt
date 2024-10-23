@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+            GENRE
+        </title>
+    </head>
+<style>
+   body{ background-color: ECE6C2;}
+h1{ color: maroon;
+      text-align: left;
+      font-size: 70px;
+       font-style: Algerian;}
+a{ color: maroon;
+    text-align: left;
+    font-size: 50px;
+    font-style: Algerian; }
+a:link{ color: maroon;}
+a:visited{ color: maroon;}
+a:hover{ color: coral; }
+a:active{ color: linen; }
+</style>
+<body>
+<h1>&nbsp&nbspGENRE</h1>
+<ul>
+<li><a href="D:\Trending.html" target="blank">Trending</li></a>
+ <li><a href="D:\comedy.html" target="blank">COMEDY</li></a>
+<li><a href="D:\biography.html" target="blank">BIOGRAPHY</li></a>
+<li><a href="D:\thriller.html" target="blank">THRILLER</li></a>
+<li><a href="D:\Murder & Msytery.html" target="blank">MURDER & MYSTERY</li></a>
+<li><a href="D:\Love & Romance.html" target="blank">LOVE & ROMANCE</li></a>
+</body>
+</html>

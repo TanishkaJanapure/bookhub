@@ -1,0 +1,22 @@
+<html>
+<style>
+body{ background-color: ECE6C2;}
+h1{ color: maroon;
+      text-align: center;
+      font-size: 50px;
+       font-style: Algerian;}
+a:link{ color: red;}
+a:visited{ color: blue;}
+a:hover{ color: blue; }
+a:active{ color: coral }
+</style>
+<body>
+<h1>Mystery & Murder</h1>
+<a href="D:\One of Us Is Lying.html" target="blank"><img src="D:\Images\One of us is lying.png" width="400px" height="400px"></a>	
+<a href="D:\51 Sleepless Nights.html" target="blank"><img src="D:\Images\51 Sleepless Nights.png"  width="400px" height="400px"></a>
+<a href="D:\In the Silent Patient.html"target="blank"><img src="D:\Images\The Silent Patient.png"  width="400px" height="400px"</a><br>
+<a href="D:\The Perfect Murder.html" target="blank"><img src="D:\Images\The Perfect Murder.png"  width="400px" height="400px"></a>
+<a href="D:\The Family Upstairs.html" target="blank"><img src="D:\Images\The Family Upstairs.png"  width="400px" height="400px"></a>
+<a href="D:\13 Reasons Why.html" target="blank"><img src="D:\Images\13 Reasons Why.png"  width="400px" height="400px"></a>
+</body>
+</html>
